@@ -1,1 +1,5 @@
-{}
+{
+  "attachmentFolderPath": "attachments",
+  "showInlineTitle": false,
+  "vimMode": true
+}

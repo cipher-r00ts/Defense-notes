@@ -1,3 +1,6 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "auto-correct-capitals",
+  "templater-obsidian",
+  "dynamic-outline"
 ]
